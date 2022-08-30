@@ -1,44 +1,43 @@
 export const movies = [
   {
-    _id: "630d13b3ec79a9f3b50074ee",
-    image: "https://www.themoviedb.org/t/p/w440_and_h660_face/3ikDvCILbB49L8uQmGcPK8hrKQw.jpg",
-    title: "Entality",
-    releaseDate: "2016-10-16T12:22:42 -03:00",
+    "_id": "6276dd44802ec260dafc8dbb",
+    "image": "https://www.themoviedb.org/t/p/w440_and_h660_face/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+    "releaseDate": "2014-04-13T12:38:32 -03:00",
+    "title": "Poshome",
+    "genres": [
+      {
+        id: 1,
+        name: 'Drama'
+      },
+      {
+        id: 2,
+        name: 'Horror'
+      }
+    ],
+    "runtime": 123
   },
   {
-    _id: "630d13b336ef2e98e968b6ae",
-    image: "https://www.themoviedb.org/t/p/w440_and_h660_face/3ikDvCILbB49L8uQmGcPK8hrKQw.jpg",
-    title: "Imant",
-    releaseDate: "2015-04-28T08:58:10 -03:00",
+    "_id": "6276dd442e753f3bd3436598",
+    "image": "https://www.themoviedb.org/t/p/w440_and_h660_face/wRnbWt44nKjsFPrqSmwYki5vZtF.jpg",
+    "releaseDate": "2021-08-26T04:10:26 -03:00",
+    "title": "Overfork"
   },
   {
-    _id: "630d13b30fb32605e20094a2",
-    image: "https://www.themoviedb.org/t/p/w440_and_h660_face/3ikDvCILbB49L8uQmGcPK8hrKQw.jpg",
-    title: "Flotonic",
-    releaseDate: "2019-09-18T01:46:02 -03:00",
+    "_id": "6276dd44c551c911dc70ab43",
+    "image": "https://www.themoviedb.org/t/p/w440_and_h660_face/kuxjMVuc3VTD7p42TZpJNsSrM1V.jpg",
+    "releaseDate": "2021-05-03T11:50:06 -03:00",
+    "title": "Norsup"
   },
   {
-    _id: "630d13b398dde0dbb27f96ce",
-    image: "https://www.themoviedb.org/t/p/w440_and_h660_face/3ikDvCILbB49L8uQmGcPK8hrKQw.jpg",
-    title: "Geostele",
-    releaseDate: "2020-04-21T08:29:55 -03:00",
+    "_id": "6276dd44deb29bf65b955886",
+    "image": "https://www.themoviedb.org/t/p/w440_and_h660_face/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg",
+    "releaseDate": "2015-06-09T05:01:26 -03:00",
+    "title": "Furnigeer"
   },
   {
-    _id: "630d13b350affad65c0a5882",
-    image: "https://www.themoviedb.org/t/p/w440_and_h660_face/3ikDvCILbB49L8uQmGcPK8hrKQw.jpg",
-    title: "Jimbies",
-    releaseDate: "2016-01-21T04:37:43 -02:00",
-  },
-  {
-    _id: "630d13b3efb2d498473dfe59",
-    image: "https://www.themoviedb.org/t/p/w440_and_h660_face/3ikDvCILbB49L8uQmGcPK8hrKQw.jpg",
-    title: "Twiist",
-    releaseDate: "2016-03-24T04:09:14 -02:00",
-  },
-  {
-    _id: "630d13b3985f5f3b611cfb28",
-    image: "https://www.themoviedb.org/t/p/w440_and_h660_face/3ikDvCILbB49L8uQmGcPK8hrKQw.jpg",
-    title: "Tribalog",
-    releaseDate: "2022-04-30T05:11:31 -03:00",
-  },
-];
+    "_id": "6276dd449e60abbd06b9dc65",
+    "image": "https://www.themoviedb.org/t/p/w440_and_h660_face/h4WLN3cmEjCsH1fNGRfvGV6IPBX.jpg",
+    "releaseDate": "2016-11-28T10:29:21 -02:00",
+    "title": "Atgen"
+  }
+]

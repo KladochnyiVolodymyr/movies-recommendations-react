@@ -1,5 +1,5 @@
 import Navigation from "./navigation";
-import MovieCard from "./MoiveCard";
+import MovieCard from "./MovieCard";
 
 export {
     Navigation,

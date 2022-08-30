@@ -1,4 +1,4 @@
-export const moives = [
+export const movies = [
   {
     _id: "630d13b3ec79a9f3b50074ee",
     image: "https://www.themoviedb.org/t/p/w440_and_h660_face/3ikDvCILbB49L8uQmGcPK8hrKQw.jpg",

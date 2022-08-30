@@ -1,11 +1,11 @@
 import React from 'react';
-import MovieCard from '../components/MoiveCard'
+import MovieCard from '../components/MovieCard'
 
-import { moives } from './stub';
+import { movies } from './stub';
 
 // More on default export: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {
-  title: 'Example/Moive card',
+  title: 'Example/Movie card',
   component: MovieCard,
   // More on argTypes: https://storybook.js.org/docs/react/api/argtypes
 };
@@ -16,5 +16,5 @@ const Template = (args) => <MovieCard {...args} />;
 export const Primary = Template.bind({});
 // More on args: https://storybook.js.org/docs/react/writing-stories/args
 Primary.args = {
-  moive: moives[0]
+  movies: movies[0]
 };

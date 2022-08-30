@@ -57,7 +57,7 @@ const Navigation = () => {
               component="div"
               sx={{ color: "white", flexGrow: 1 }}
             >
-              Moives recommendation
+              Movies recommendation
             </Typography>
           </Link>
 

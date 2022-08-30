@@ -5,7 +5,7 @@ import { styled } from "@mui/material/styles";
 
 import { MovieCard } from "../../components";
 
-const SelectedMoives = styled(Paper)(({ theme }) => ({
+const SelectedMovies = styled(Paper)(({ theme }) => ({
   backgroundColor: "#fff",
   ...theme.typography.body2,
   padding: theme.spacing(1),
@@ -43,7 +43,7 @@ const Home = () => {
           </Paper>
         </Grid>
         <Grid item xs={12} md={4}>
-          <SelectedMoives>Selected movies</SelectedMoives>
+          <SelectedMovies>Selected movies</SelectedMovies>
         </Grid>
       </Grid>
     </Box>
